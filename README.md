@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white" alt="gmail Badge"/>
    </a>
   </p>
-</div>r=white" alt="gmail Badge"/>
+</div>
    </a>
   </p>
 </div>
