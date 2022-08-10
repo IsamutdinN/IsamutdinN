@@ -9,7 +9,7 @@
        <a href ="https://github.com/IsamutdinN/SQL_HW/tree/SQL_HW_1">
   <img src="https://vectorified.com/images/postgresql-icon-11.jpg" width="50px"/>
        <a href ="https://github.com/IsamutdinN/DevTools/tree/DevTools">
-  <img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuxwing.com%2Fwp-content%2Fthemes%2Fuxwing%2Fdownload%2F10-brands-and-social-media%2Fchromium.png&f=1&nofb=1" width='50px'>
+  <img src =https://img.icons8.com/plasticine/344/chrome.png width='55px'>
          <a href ="https://github.com/IsamutdinN/JS_HW/tree/JS_HW_1">
     <img src ="https://www.chapter247.com/wp-content/uploads/2019/11/110-1106837_proj4js-by-proj4js-javascript-icon-logo-png-clipart.png" width='42px'>
          <a href ="https://github.com/IsamutdinN/CheckList_WebForm">
@@ -17,6 +17,7 @@
          </a>
      </p>
   </div>
+  <br>
 <div>
   <p align='center'>
    <a href="https://web.telegram.im/">
